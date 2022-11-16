@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+        <!DOCTYPE mapper
+                PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+                "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.Ambition.mapper.UserMapper">
+
+    <!--定义User的resultMap-->
+    <resultMap id="UserRoleMap" type="com.Ambition.pojo.User">
+        <id property="id" column="id"></id>
+        <result property="userCode" column="userCode"></result>
+        <result property="userName" column="userName"></result>
+        <result property="password" column="password"></result>
+        <result property="roleId" column="roleId"></result>
+        <result property="headPic" column="headPic"></result>
+        <result property="state" column="state"></result>
+        <result property="tel" column="tel"></result>
+        <result property="email" column="email"></result>
+        <result property="address" column="address"></result>
+        <!--配置角色的映射-->
+        <collection property="role" ofType="com.Ambition.pojo.Role">
+            <id property="id" column="id"></id>
+            <result property="rolename" column="rolename"></result>
+        </collection>
+    </resultMap>
+
+    <select id="GetAllUser" resultMap="UserRoleMap">
+        select * from supermarket.user AS u
+        inner JOIN supermarket.role r
+        ON r.id=u.roleId
+    </select>
+
+
+    <select id="GetUserBy" resultType="com.Ambition.pojo.User">
+        select * from supermarket.user
+        <where>
+            <if test="id != null">
+                id = #{id}
+            </if>
+            <if test="userCode != null">
+                userCode = #{userCode}
+            </if>
+            <if test="password != null">
+                and password = #{password}
+            </if>
+        </where>
+    </select>
+
+    <delete id="deleteUser" >
+        delete from supermarket.user where id = #{id}
+    </delete>
+
+    <insert id="addUser" parameterType="com.Ambition.pojo.User">
+        insert into supermarket.user(username,password,roleId) values (#{userName},#{password},#{roleId})
+    </insert>
+
+    <update id="updateUser" parameterType="com.Ambition.pojo.User">
+        UPDATE supermarket.user
+        <trim prefix="set" suffixOverrides=",">
+            <if test="userName!=null"> username=#{userName},</if>
+            <if test="password!=null"> password=#{password},</if>
+            <if test="roleId!=null"> roleId=#{roleId},</if>
+        </trim>
+        WHERE id=#{id};
+    </update>
+
+    <select id="GetUserLike" resultType="com.Ambition.pojo.User">
+        select * from supermarket.user
+        inner join supermarket.role
+        on user.roleId = role.id
+        <where>
+            <if test="userName != null">
+                userName like #{userName}
+            </if>
+            <if test="roleId != null">
+                roleId = #{roleId}
+            </if>
+        </where>
+    </select>
+
+</mapper>
