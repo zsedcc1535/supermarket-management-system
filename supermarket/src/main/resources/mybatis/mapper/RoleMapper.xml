@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.Ambition.mapper.RoleMapper">
+
+    <!--查询所有-->
+    <select id="GetAllRole" resultMap="RolePermissionMap">
+        /*根据角色找权限*/
+        SELECT r.id AS rid,r.rolename AS rname FROM supermarket.role
+    </select>
+
+    <!--定义Role的resultMap-->
+    <resultMap id="RolePermissionMap" type="com.Ambition.pojo.Role">
+        <id property="id" column="rid"/>
+        <result property="rolename" column="rname"/>
+        <!--配置权限集合的映射-->
+        <collection property="permissions" column="rid" ofType="com.Ambition.pojo.Permission" select="getPermissionsList"/>
+    </resultMap>
+
+    <select id="getPermissionsList" resultType="com.Ambition.pojo.Permission">
+        select * from supermarket.role_permission
+                          inner join supermarket.permission
+                                     on role_permission.permissionId = permission.id
+        where roleId = #{rid}
+    </select>
+
+    <select id="GetRoleBy" parameterType="String" resultType="com.Ambition.pojo.Role">
+        select * from supermarket.role
+        <where>
+            <if test="rolename != null">
+                AND rolename = #{rolename}
+            </if>
+
+            <if test="id != null ">
+                AND id = #{id}
+            </if>
+        </where>
+    </select>
+
+    <insert id="insertRole" parameterType="com.Ambition.pojo.Role">
+        insert into supermarket.role(rolename,salary)  VALUES (#{rolename},#{salary});
+    </insert>
+
+    <update id="updateRole" parameterType="com.Ambition.pojo.Role">
+        UPDATE supermarket.role
+        <trim prefix="set" suffixOverrides=",">
+            <if test="rolename!=null"> rolename=#{rolename},</if>
+        </trim>
+        WHERE id=#{id};
+    </update>
+
+    <delete id="deleteRole">
+        delete from supermarket.role where id = #{id}
+    </delete>
+
+    <select id="showAllRole" resultType="com.Ambition.pojo.Role">
+        select * from supermarket.role
+    </select>
+</mapper>

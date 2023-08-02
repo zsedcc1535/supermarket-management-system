@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.Ambition.mapper.StockMapper">
+
+    <resultMap id="StockResult" type="java.util.Map">
+        <result column="name" jdbcType="VARCHAR" property="typeName"/>
+        <result column="value" jdbcType="INTEGER" property="goodsAmount"/>
+    </resultMap>
+
+    <select id="getAllStock" resultType="com.Ambition.pojo.Stock">
+        select *
+        from supermarket.stock
+        inner join supermarket.goods
+        on stock.id = goods.id
+        inner join  supermarket.goods_type
+        on goods.typeId = goods_type.id
+    </select>
+
+    <select id="searchStock" resultType="com.Ambition.pojo.Stock">
+        select *
+        from supermarket.stock
+        inner join supermarket.goods
+        on stock.id = goods.id
+        inner join  supermarket.goods_type
+        on goods.typeId = goods_type.id
+        <where>
+            <if test="goodsId != null">
+                AND goodsId = #{goodsId}
+            </if>
+            <if test="goodsName != null">
+                AND goods.goodsName like #{goodsName}
+            </if>
+        </where>
+    </select>
+
+    <insert id="addStock" parameterType="com.Ambition.pojo.Stock">
+        insert into supermarket.stock
+        <trim prefix="(" suffix=")" suffixOverrides=",">
+            <if test="goodsId != null">
+                goodsId,
+            </if>
+            <if test="goodsAmount != null">
+                goodsAmount,
+            </if>
+            <if test="standardAmount != null">
+                standardAmount,
+            </if>
+        </trim>
+        <trim prefix="values (" suffix=")" suffixOverrides=",">
+            <if test="goodsId != null">
+                #{goodsId},
+            </if>
+            <if test="goodsAmount != null">
+                #{goodsAmount},
+            </if>
+            <if test="standardAmount != null">
+                #{standardAmount},
+            </if>
+        </trim>
+    </insert>
+
+    <delete id="deleteStock">
+        delete from supermarket.stock where goodsId = #{goodsId}
+    </delete>
+
+    <select id="underStock" resultType="com.Ambition.pojo.Stock">
+        select goodsAmount,goodsId,goods.id,goods.goodsName AS goods_name from supermarket.stock
+        inner join supermarket.goods
+        on stock.goodsId = goods.id
+        where goodsAmount &lt; 200
+        order by (stock.goodsAmount)
+    </select>
+
+    <update id="updateStock" parameterType="com.Ambition.pojo.Stock">
+        UPDATE supermarket.stock
+        <trim prefix="set" suffixOverrides=",">
+            <if test="goodsAmount!=null"> goodsAmount=#{goodsAmount},</if>
+            <if test="standardAmount!=null"> standardAmount=#{standardAmount},</if>
+        </trim>
+        WHERE id=#{id};
+    </update>
+
+    <select id="getStockStatistics" resultMap="StockResult">
+        select gt.name AS name,sum(s.goodsAmount) AS value
+        from supermarket.stock s
+        inner join supermarket.goods g on s.goodsId=g.id
+        inner join supermarket.goods_type gt on g.typeId=gt.id
+        group by gt.id
+    </select>
+</mapper>

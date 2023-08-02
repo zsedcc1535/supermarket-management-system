@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d5d801c9-50dd-49d1-ae61-25bd26915263" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/Supermarket.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket--management-fronted/src/views/All.vue" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket--management-fronted/src/views/All.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket--management-fronted/src/views/GoodsInformation.vue" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket--management-fronted/src/views/GoodsInformation.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket--management-fronted/src/views/Login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket--management-fronted/src/views/Login.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket--management-fronted/src/views/OrderInformation.vue" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket--management-fronted/src/views/OrderInformation.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket--management-fronted/src/views/StockAll.vue" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket--management-fronted/src/views/StockAll.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket--management-fronted/src/views/StockIn.vue" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket--management-fronted/src/views/StockIn.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket--management-fronted/src/views/StockOut.vue" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket--management-fronted/src/views/StockOut.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_11.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_11.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_11.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__com_alibaba_druid_1_2_12.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__com_alibaba_druid_1_2_12.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__com_alibaba_fastjson_1_2_28.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__com_alibaba_fastjson_1_2_28.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__com_fasterxml_classmate_1_5_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_13_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_13_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_13_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_13_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_13_4_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_13_4_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_13_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_13_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_13_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_13_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_13_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_13_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_4_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__com_github_jsqlparser_jsqlparser_4_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__com_github_pagehelper_pagehelper_5_3_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__com_github_pagehelper_pagehelper_5_3_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__com_github_pagehelper_pagehelper_spring_boot_autoconfigure_1_4_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__com_github_pagehelper_pagehelper_spring_boot_autoconfigure_1_4_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__com_github_pagehelper_pagehelper_spring_boot_starter_1_4_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__com_github_pagehelper_pagehelper_spring_boot_starter_1_4_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_7_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_7_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__com_mysql_mysql_connector_j_8_0_31.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__com_mysql_mysql_connector_j_8_0_31.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__com_sun_activation_jakarta_activation_1_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__com_sun_activation_jakarta_activation_1_2_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__com_sun_mail_jakarta_mail_1_6_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__com_sun_mail_jakarta_mail_1_6_7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__com_zaxxer_HikariCP_4_0_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__com_zaxxer_HikariCP_4_0_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__io_github_classgraph_classgraph_4_8_83.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__io_github_classgraph_classgraph_4_8_83.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__io_jsonwebtoken_jjwt_0_9_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__io_jsonwebtoken_jjwt_0_9_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__io_lettuce_lettuce_core_6_1_10_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__io_lettuce_lettuce_core_6_1_10_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__io_netty_netty_buffer_4_1_84_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__io_netty_netty_buffer_4_1_84_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__io_netty_netty_codec_4_1_84_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__io_netty_netty_codec_4_1_84_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__io_netty_netty_common_4_1_84_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__io_netty_netty_common_4_1_84_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__io_netty_netty_handler_4_1_84_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__io_netty_netty_handler_4_1_84_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__io_netty_netty_resolver_4_1_84_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__io_netty_netty_resolver_4_1_84_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__io_netty_netty_transport_4_1_84_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__io_netty_netty_transport_4_1_84_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_84_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__io_netty_netty_transport_native_unix_common_4_1_84_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__io_projectreactor_reactor_core_3_4_24.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__io_projectreactor_reactor_core_3_4_24.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__io_springfox_springfox_bean_validators_3_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__io_springfox_springfox_bean_validators_3_0_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__io_springfox_springfox_boot_starter_3_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__io_springfox_springfox_boot_starter_3_0_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__io_springfox_springfox_core_3_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__io_springfox_springfox_core_3_0_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__io_springfox_springfox_data_rest_3_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__io_springfox_springfox_data_rest_3_0_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__io_springfox_springfox_oas_3_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__io_springfox_springfox_oas_3_0_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__io_springfox_springfox_schema_3_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__io_springfox_springfox_schema_3_0_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__io_springfox_springfox_spi_3_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__io_springfox_springfox_spi_3_0_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__io_springfox_springfox_spring_web_3_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__io_springfox_springfox_spring_web_3_0_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__io_springfox_springfox_spring_webflux_3_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__io_springfox_springfox_spring_webflux_3_0_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__io_springfox_springfox_spring_webmvc_3_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__io_springfox_springfox_spring_webmvc_3_0_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__io_springfox_springfox_swagger2_3_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__io_springfox_springfox_swagger2_3_0_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__io_springfox_springfox_swagger_common_3_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__io_springfox_springfox_swagger_common_3_0_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_3_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_3_0_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__io_swagger_core_v3_swagger_annotations_2_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__io_swagger_core_v3_swagger_annotations_2_1_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__io_swagger_core_v3_swagger_models_2_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__io_swagger_core_v3_swagger_models_2_1_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_20.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_20.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__io_swagger_swagger_models_1_5_20.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__io_swagger_swagger_models_1_5_20.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__jakarta_annotation_jakarta_annotation_api_1_3_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_12_18.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_12_18.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_12_18.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_12_18.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__net_minidev_accessors_smart_2_4_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__net_minidev_accessors_smart_2_4_8.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__net_minidev_json_smart_2_4_8.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__net_minidev_json_smart_2_4_8.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_17_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_17_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_17_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_17_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_68.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_68.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_68.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_68.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_68.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_68.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_assertj_assertj_core_3_22_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_assertj_assertj_core_3_22_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_hamcrest_hamcrest_2_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_8_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_5_8_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_8_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_8_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_8_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_8_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_8_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_8_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_mapstruct_mapstruct_1_3_1_Final.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_mapstruct_mapstruct_1_3_1_Final.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_mockito_mockito_core_4_5_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_mockito_mockito_core_4_5_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_4_5_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_mockito_mockito_junit_jupiter_4_5_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_mybatis_mybatis_3_5_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_mybatis_mybatis_3_5_9.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_7.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_2_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_2_2_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_2_2_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_2_2_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_objenesis_objenesis_3_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_objenesis_objenesis_3_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_ow2_asm_asm_9_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_ow2_asm_asm_9_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_projectlombok_lombok_1_18_24.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_projectlombok_lombok_1_18_24.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_36.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_36.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_36.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_36.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_7_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_7_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_7_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_7_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_7_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_7_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_7_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_7_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_7_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_7_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_7_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_7_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_7_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_7_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_mail_2_7_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_mail_2_7_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_7_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_security_2_7_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_7_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_7_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_7_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_7_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_7_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_7_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_7_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_7_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_7_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_7_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_7_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_7_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_7_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_7_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_7_5.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_7_5.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_2_0_0_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_2_0_0_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_2_0_0_RELEASE.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_2_0_0_RELEASE.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_7_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_security_spring_security_config_5_7_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_7_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_security_spring_security_core_5_7_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_7_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_security_spring_security_crypto_5_7_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_7_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_security_spring_security_web_5_7_4.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_spring_aop_5_3_23.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_spring_aop_5_3_23.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_spring_beans_5_3_23.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_spring_beans_5_3_23.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_spring_context_5_3_23.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_spring_context_5_3_23.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_spring_context_support_5_3_23.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_spring_context_support_5_3_23.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_spring_core_5_3_23.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_spring_core_5_3_23.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_spring_expression_5_3_23.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_spring_expression_5_3_23.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_23.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_spring_jcl_5_3_23.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_23.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_spring_jdbc_5_3_23.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_spring_oxm_5_3_23.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_spring_oxm_5_3_23.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_spring_test_5_3_23.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_spring_test_5_3_23.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_spring_tx_5_3_23.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_spring_tx_5_3_23.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_spring_web_5_3_23.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_spring_web_5_3_23.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_23.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_23.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_webjars_jquery_3_4_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_webjars_jquery_3_4_1.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_9_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_9_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_yaml_snakeyaml_1_30.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/.idea/libraries/Maven__org_yaml_snakeyaml_1_30.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/CodeAnalyzer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/ScheduledTask/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/ScheduledTask/Task.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/config/SpringSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/config/SpringSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/controller/EmailController.java" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/controller/EmailController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/controller/GoodsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/controller/GoodsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/controller/ImgController.java" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/controller/ImgController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/controller/IndexController.java" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/controller/IndexController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/controller/PermissionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/controller/PermissionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/controller/RoleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/controller/RoleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/controller/StatisticsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/controller/StatisticsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/controller/StockChangeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/controller/StockChangeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/controller/StockController.java" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/controller/StockController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/controller/expirationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/controller/expirationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/mapper/GoodsMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/mapper/GoodsMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/mapper/LoginRecordMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/mapper/LoginRecordMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/mapper/StockChangeMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/mapper/StockChangeMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/mapper/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/pojo/Goods.java" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/pojo/Goods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/service/GoodsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/service/GoodsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/service/RoleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/service/RoleService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/service/StockChangeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/service/StockChangeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/service/impl/GoodsServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/service/impl/GoodsServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/service/impl/IndexServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/service/impl/IndexServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/service/impl/LoginServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/service/impl/LoginServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/service/impl/PermissionServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/service/impl/PermissionServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/service/impl/RoleServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/service/impl/RoleServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/service/impl/StockChangeServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/service/impl/StockChangeServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/service/impl/StockServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/service/impl/StockServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/src/main/java/com/Ambition/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/src/main/resources/application-test.yml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/src/main/resources/application-test.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/src/main/resources/mybatis/mapper/GoodsMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/src/main/resources/mybatis/mapper/GoodsMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/src/main/resources/mybatis/mapper/RoleMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/src/main/resources/mybatis/mapper/RoleMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/src/main/resources/mybatis/mapper/StockChangeMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/src/main/resources/mybatis/mapper/StockChangeMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/src/main/resources/mybatis/mapper/StockMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/src/main/resources/mybatis/mapper/StockMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/src/main/resources/mybatis/mapper/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/src/main/resources/mybatis/mapper/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/src/test/java/com/Ambition/SupermarketApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/supermarket/src/test/java/com/Ambition/SupermarketApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/application-dev.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/application-test.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/banner.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/CodeAnalyzer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/ScheduledTask/Task.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/SupermarketApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/Utils/AppDateUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/Utils/Code.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/Utils/Constant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/Utils/FastJsonRedisSerializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/Utils/FileUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/Utils/JwtUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/Utils/MD5Util.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/Utils/MailService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/Utils/MailerServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/Utils/Page.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/Utils/RedisCache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/Utils/WebUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/config/CorsConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/config/RedisConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/config/SpringSecurityConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/config/SwaggerConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/controller/EmailController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/controller/GoodsController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/controller/ImgController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/controller/IndexController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/controller/LoginController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/controller/PermissionController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/controller/RoleController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/controller/StatisticsController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/controller/StockChangeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/controller/StockController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/controller/UserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/controller/expirationController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/dto/ResultData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/dto/UserLogin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/expression/MyExpressionRoot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/filter/JwtAuthenticationTokenFilter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/handler/AccessDeniedHandlerImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/handler/AuthenticationEntryPointImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/mapper/GoodsMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/mapper/GoodsTypeMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/mapper/LoginRecordMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/mapper/PermissionMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/mapper/RoleMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/mapper/RolePermissionMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/mapper/StockChangeMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/mapper/StockMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/mapper/UserMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/pojo/Expiration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/pojo/Goods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/pojo/GoodsType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/pojo/LoginRecord.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/pojo/Permission.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/pojo/Role.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/pojo/RolePermission.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/pojo/Stock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/pojo/StockChange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/pojo/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/service/GoodsService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/service/IndexService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/service/LoginServcie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/service/PermissionService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/service/RoleService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/service/StockChangeService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/service/StockService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/service/UserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/service/impl/GoodsServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/service/impl/IndexServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/service/impl/LoginServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/service/impl/PermissionServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/service/impl/RoleServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/service/impl/StockChangeServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/service/impl/StockServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/service/impl/UserDetailsServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/com/Ambition/service/impl/UserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/mybatis/mapper/GoodsMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/mybatis/mapper/GoodsTypeMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/mybatis/mapper/LoginRecordMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/mybatis/mapper/PermissionMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/mybatis/mapper/RoleMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/mybatis/mapper/RolePermissionMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/mybatis/mapper/StockChangeMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/mybatis/mapper/StockMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/classes/mybatis/mapper/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/supermarket/target/test-classes/com/Ambition/SupermarketApplicationTests.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2KOj3kAaaE8DVEuySTOVBgaGDUB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/supermarket" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="imageTag" value="" />
+          <option name="buildCliOptions" value="" />
+          <option name="buildOnly" value="true" />
+          <option name="command" value="" />
+          <option name="containerName" value="" />
+          <option name="entrypoint" value="" />
+          <option name="commandLineOptions" value="" />
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.Dockerfile" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d5d801c9-50dd-49d1-ae61-25bd26915263" name="默认的" comment="" />
+      <created>1673852325795</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673852325795</updated>
+      <workItem from="1673852327058" duration="18000" />
+      <workItem from="1673852368374" duration="21000" />
+      <workItem from="1680768111751" duration="125000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="91" key="#Docker" timestamp="1680768185644">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="91" key="#Docker/0.0.1536.864@0.0.1536.864" timestamp="1680768185644" />
+    <state x="474" y="0" key="#Dockerfile" timestamp="1680768193537">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="474" y="0" key="#Dockerfile/0.0.1536.864@0.0.1536.864" timestamp="1680768193537" />
+    <state x="549" y="187" key="FileChooserDialogImpl" timestamp="1680768232489">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="187" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1680768232489" />
+  </component>
+</project>

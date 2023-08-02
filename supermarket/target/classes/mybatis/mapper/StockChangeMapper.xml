@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.Ambition.mapper.StockChangeMapper">
+
+    <select id="getStockChangeBy" resultType="com.Ambition.pojo.StockChange">
+        select stock_change.id, goodsId, amount, time, type, userId, stock_change.state, goodsName,name,username
+        from supermarket.stock_change
+        left join supermarket.goods
+        on stock_change.goodsId = goods.id
+        inner join supermarket.goods_type
+        on  goods.typeId = goods_type.id
+        inner join supermarket.user
+        on stock_change.userId = user.id
+        <where>
+            <if test=" type != null and type &lt; 2 ">
+                AND type = #{type}
+            </if>
+            <if test=" goodsName != null ">
+                AND goodsName like #{goodsName}
+            </if>
+            <if test=" dateCode != null ">
+                AND datediff(sysdate(),time)  &lt;= #{dateCode}
+            </if>
+        </where>
+    </select>
+
+    <insert id="insertStockChange" parameterType="com.Ambition.pojo.StockChange">
+        insert into supermarket.stock_change(goodsId, amount, time, type, userId, state)
+        VALUES (#{goodsId},#{amount},#{time},#{type},#{userId},#{state})
+    </insert>
+
+    <select id="getCheckStatistics" resultType="Integer">
+        select sum(amount) from supermarket.stock_change
+        where type = #{type} AND datediff(now(),time) &lt; 31
+    </select>
+
+    <update id="updateStockChange" parameterType="com.Ambition.pojo.StockChange">
+        update supermarket.stock_change
+        <trim prefix="set" suffixOverrides=",">
+            <if test="time!=null"> time=#{time},</if>
+            <if test="amount!=null"> amount=#{amount},</if>
+        </trim>
+        where id =#{id}
+    </update>
+
+    <delete id="deleteStockChange">
+        delete from supermarket.stock_change
+        where id = #{id} AND type = #{type}
+    </delete>
+
+    <select id="getStockChangeById" resultType="com.Ambition.pojo.StockChange">
+        select *
+        from supermarket.stock_change
+        where id = #{id};
+    </select>
+</mapper>

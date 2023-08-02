@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.Ambition.mapper.OrderMapper">
+
+    <select id="getAllOrders" resultType="com.Ambition.pojo.Order">
+        select *
+        from supermarket.order
+    </select>
+
+    <insert id="addOrders" parameterType="com.Ambition.pojo.Order">
+        insert into supermarket.order
+        (id, username,goodsName, goodsAmount, time)
+        values (#{id}, #{username},#{goodsName}, #{goodsAmount}, #{time})
+    </insert>
+
+    <select id="getOrdersBy" resultType="com.Ambition.pojo.Order">
+        select * from supermarket.order
+        <where>
+            <if test="id != null">
+                AND id = #{id}
+            </if>
+            <if test="username != null">
+                AND username = #{username}
+            </if>
+            <if test="goodsName != null">
+                AND goodsName = #{goodsName}
+            </if>
+            <if test="time != null">
+                AND 'time' = #{time}
+            </if>
+        </where>
+    </select>
+
+    <delete id="deleteOrder">
+        delete from supermarket.order where id = #{id}
+    </delete>
+
+    <update id="updateOrder" parameterType="com.Ambition.pojo.Order">
+        update supermarket.order
+        <trim prefix="set" suffixOverrides=",">
+            <if test="username!=null"> username=#{username},</if>
+            <if test="goodsName!=null"> goodsName=#{goodsName},</if>
+            <if test="goodsAmount!=null"> goodsAmount=#{goodsAmount},</if>
+            <if test="time!=null"> time=#{time},</if>
+        </trim>
+        where id =#{id}
+    </update>
+
+    <select id="getOrderslike" resultType="com.Ambition.pojo.Order">
+        select * from supermarket.order
+        <where>
+            <if test="id != null">
+                id like #{id}
+            </if>
+            <if test="username != null">
+                username like #{username}
+            </if>
+            <if test="goodsName != null">
+                goodsName like #{goodsName}
+            </if>
+        </where>
+    </select>
+
+    <select id="CountOrder" resultType="Integer">
+        select COUNT(*) FROM supermarket.`order`
+    </select>
+</mapper>
